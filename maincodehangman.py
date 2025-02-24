@@ -83,7 +83,7 @@ def draw(f,word): # deals with the hangman figures, colours, bg colour etc
     global cl1,cl2,cl3,cl4,cl5,cl6,letters, guessed, position
 
     # --------- BACKGROUND ---------
-    a.fill((0,190,255)) # light blue colour for the bg (R,G,B)
+    a.fill((0,5,200)) # light blue colour for the bg (R,G,B)
 
 
     # --------- CLOUDS ---------
